@@ -6,14 +6,14 @@ Python 3.x installed on your system.
 #
 # Installation
 Install:pip install packaging
-# import sqlite3
+#
+import sqlite3
 # Features
-1:Insert Employee Detail
+1:Insert Employee Data
 #
 2:Delete Employee Data
 #
 3:Display Records
 #
-#update feature
-#
+# Update feature
 under progress
