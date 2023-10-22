@@ -6,7 +6,7 @@ Python 3.x installed on your system.
 
 # Installation
 Install:pip install packaging
-import sqlite3
+import sqlite3 
 # Features
 1:Insert Employee Data
 
