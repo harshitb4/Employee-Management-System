@@ -1,19 +1,44 @@
 # Employee-Management-System
-I developed this CRUD Application for an Employee Management System using python and SQLite3 database
 
-# Prerequisites
-Python 3.x installed on your system.
+Overview -
 
-# Installation
-Install:pip install packaging
+An employee management system consisting of important personal information about employees.
+Purpose -
 
-import sqlite3 
-# Features
-1:Insert Employee Data
+I created an online employee management system web application that will allow users to add, delete and show employees.
+Functionalities -
 
-2:Delete Employee Data
+1. Add employee information:
+    * ID
+      
+    * First_Name
+      
+    * Last_Name
+      
+    * Email
+      
+    * Contact
+      
+2. Delete:
+   
+Be able to delete employees from the database by providing employee id.
 
-3:Display Records
+3. Show employees:
+   
+Be able to retrieve all employee data by click on show records button.
 
-# Update feature
-under progress
+Used technologies:
+
+    * Python
+    
+    * SQLite
+    
+Installation -
+
+1) Pip install python
+  
+3) Pip install packaging
+   
+How to run -
+
+Navigate to main.py file and run the code
