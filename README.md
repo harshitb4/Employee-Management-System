@@ -10,7 +10,7 @@ I created an online employee management system web application that will allow u
 
 # Functionalities - 
 
-# 1. Add employee information:
+1. Add employee information:
     * ID
       
     * First_Name
@@ -21,11 +21,11 @@ I created an online employee management system web application that will allow u
       
     * Contact
       
-# 2. Delete:
+2. Delete:
    
 Be able to delete employees from the database by providing employee id.
 
-# 3. Show employees:
+3. Show employees:
    
 Be able to retrieve all employee data by click on show records button.
 
