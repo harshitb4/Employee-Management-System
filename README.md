@@ -3,10 +3,9 @@ I developed this CRUD Application for an Employee Management System using python
 
 # Prerequisites
 Python 3.x installed on your system.
-#
+
 # Installation
 Install:pip install packaging
-#
 import sqlite3
 # Features
 1:Insert Employee Data
