@@ -3,6 +3,7 @@
 Overview -
 
 An employee management system consisting of important personal information about employees.
+
 Purpose -
 
 I created an online employee management system web application that will allow users to add, delete and show employees.
